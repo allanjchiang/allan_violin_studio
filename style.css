@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .hero_image {
     width: 100%;
     border: 0;
