@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+h2 {
+    text-align: center;
+}
+
 p {
     margin: 0 0 1.3em;
     text-align: center;
