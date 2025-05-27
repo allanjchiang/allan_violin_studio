@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
+.text-wrap {
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
 h2 {
     text-align: center;
 }
