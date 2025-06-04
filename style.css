@@ -11,6 +11,12 @@ body {
     gap: 1rem;
 }
 
+.link {
+    background: none;
+    border: none;
+    text-decoration: none;
+}
+
 .dropdown {
     position: absolute;
 }
