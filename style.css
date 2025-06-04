@@ -8,6 +8,10 @@ body {
     padding-top: 5%;
 }
 
+.text-wrap-2 {
+    background-color: (94,99,255,.05);
+}
+
 h2 {
     text-align: center;
 }
