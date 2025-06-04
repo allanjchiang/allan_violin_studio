@@ -51,6 +51,12 @@ body {
     pointer-events: auto;
 }
 
+.information-grid {
+    display: grid;
+    grid-template-columns: repeat(2, max-content);
+    gap: 2rem;
+}
+
 .text-wrap {
     padding-bottom: 5%;
     padding-top: 5%;
