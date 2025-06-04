@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+.dropdown-menu {
+    box-shadow: 0 5px 2px 0 .1;
+}
+
 .text-wrap {
     padding-bottom: 5%;
     padding-top: 5%;
