@@ -79,8 +79,9 @@ h2 {
 }
 
 p {
-    margin: 0 0 1.3em;
+    margin: 0 auto 1.3em;
     text-align: center;
+    max-width: 34em;
 }
 
 .hero_image {
