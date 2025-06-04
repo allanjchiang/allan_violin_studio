@@ -32,6 +32,7 @@ p {
 }
 
 .hero_image {
+    top: calc(100% + .3rem);
     width: 100%;
     border: 0;
 }
