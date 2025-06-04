@@ -45,6 +45,7 @@ body {
 
 .dropdown > .link:focus + .dropdown-menu {
     opacity: 1;
+    transform: translateY(0);
 }
 
 .text-wrap {
