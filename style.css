@@ -40,7 +40,7 @@ body {
     box-shadow: 0 5px 2px 0 rbga(0, 0, 0, .1);
     opacity: 0;
     transform: translateY(-10px);
-    transition: opacity 150ms ease-in-out;
+    transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
 .dropdown > .link:focus + .dropdown-menu {
