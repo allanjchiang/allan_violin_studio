@@ -41,6 +41,10 @@ body {
     opacity: 0;
 }
 
+.dropdown-menu.active {
+    opacity: 1;
+}
+
 .text-wrap {
     padding-bottom: 5%;
     padding-top: 5%;
