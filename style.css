@@ -41,7 +41,7 @@ body {
     opacity: 0;
 }
 
-.dropdown-menu.active {
+.dropdown > .link:focus + .dropdown-menu {
     opacity: 1;
 }
 
