@@ -27,7 +27,7 @@ body {
 }
 
 .dropdown {
-    position: absolute;
+    position: relative;
 }
 
 .dropdown-menu {
