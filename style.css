@@ -22,7 +22,7 @@ body {
     padding: 0;
 }
 
-.dropdown.active > .link:focus,
+.dropdown.active > .link,
 .link:hover {
     color: black;
 }
@@ -45,7 +45,7 @@ body {
     transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
-.dropdown.active > .link:focus + .dropdown-menu {
+.dropdown.active > .link + .dropdown-menu {
     opacity: 1;
     transform: translateY(0);
     pointer-events: auto;
