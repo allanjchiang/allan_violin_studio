@@ -4,7 +4,8 @@ body {
 }
 
 .dropdown-menu {
-    box-shadow: 0 5px 2px 0 .1;
+    position: absolute;
+    box-shadow: 0 5px 2px 0 rbga(0, 0, 0, .1);
 }
 
 .text-wrap {
