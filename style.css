@@ -5,6 +5,7 @@ body {
 
 .dropdown {
     position: relative;
+    display: inline;
 }
 
 .dropdown-menu {
