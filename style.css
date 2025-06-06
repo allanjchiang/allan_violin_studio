@@ -87,7 +87,11 @@ h1 {
     text-align: center;
 }
 
-.subtitle {
+.subtitle-1 {
+    color: #ff0;
+}
+
+.subtitle-2 {
     color: white;
 }
 
