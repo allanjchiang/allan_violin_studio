@@ -75,6 +75,11 @@ body {
     padding-top: 5%;
 }
 
+h1 {
+    font-size: 3.1em;
+    text-align: center;
+}
+
 h2 {
     text-align: center;
 }
