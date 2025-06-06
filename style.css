@@ -75,6 +75,10 @@ body {
     padding-top: 5%;
 }
 
+.title {
+    background-color: #6067ff;
+}
+
 h1 {
     font-size: 3.1em;
     text-align: center;
