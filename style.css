@@ -102,10 +102,13 @@ h1 {
 .subtitle-3 {
     text-decoration: none;
     color: #ff0;
+    font-size: 14px;
 }
 
 .ti-control-play {
     color: #ff0;
+    margin-right: .5em;
+    font-size: 14px;
 }
 
 h2 {
