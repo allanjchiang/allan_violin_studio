@@ -85,6 +85,10 @@ body {
     color: #333042;
 }
 
+.text-wrap > p {
+    color: #666;
+}
+
 .title {
     background-color: #6067ff;
     padding-top: 8%;
