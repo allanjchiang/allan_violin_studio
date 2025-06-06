@@ -99,8 +99,9 @@ h1 {
     color: white;
 }
 
-a {
+.subtitle-3 {
     text-decoration: none;
+    color: #ff0;
 }
 
 .ti-control-play {
