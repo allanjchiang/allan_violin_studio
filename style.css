@@ -99,6 +99,10 @@ h1 {
     color: white;
 }
 
+.ti-control-play {
+    color: #ff0;
+}
+
 h2 {
     text-align: center;
 }
