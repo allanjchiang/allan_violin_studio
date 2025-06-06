@@ -153,3 +153,7 @@ p {
 .footer > p {
     color: white;
 }
+
+i {
+    margin: .5em;
+}
