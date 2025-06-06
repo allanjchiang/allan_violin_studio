@@ -149,3 +149,7 @@ p {
     padding-bottom: 5%;
     background-color: #333042;
 }
+
+.footer > p {
+    color: white;
+}
