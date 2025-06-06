@@ -74,6 +74,10 @@ body {
     color: #666;
 }
 
+.ti-music {
+    margin-right: .5em;
+}
+
 .text-wrap-2 {
     background-color: rgba(94,99,255,.05);
     padding-bottom: 5%;
