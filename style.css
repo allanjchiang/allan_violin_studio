@@ -70,6 +70,10 @@ body {
     color: #333042;
 }
 
+.text-wrap > p {
+    color: #666;
+}
+
 .text-wrap-2 {
     background-color: rgba(94,99,255,.05);
     padding-bottom: 5%;
