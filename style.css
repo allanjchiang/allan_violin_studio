@@ -143,3 +143,8 @@ p {
     width: 100%;
     border: 0;
 }
+
+.footer {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
