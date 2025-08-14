@@ -145,6 +145,24 @@ p {
     max-width: 34em;
 }
 
+#pricing {
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    text-align: center;
+    text-decoration: none;
+}
+
 .hero_image {
     width: 100%;
     border: 0;
