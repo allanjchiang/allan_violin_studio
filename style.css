@@ -3,6 +3,12 @@
         display: none;
     }
 
+    h1 {
+        color: #90CAF9;
+        font-size: 3.1em;
+        text-align: center;
+    }
+
     .text-wrap {
         padding-left: 5%;
         padding-right: 5%;
