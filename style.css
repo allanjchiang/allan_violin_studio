@@ -1,4 +1,8 @@
 @media screen and (max-width: 600px) {
+    .hero_image {
+        display: none;
+    }
+
     .text-wrap {
         padding-left: 5%;
         padding-right: 5%;
