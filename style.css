@@ -3,8 +3,12 @@
         display: none;
     }
 
+    .hero_image_small {
+        background-color: ;
+    }
+
     h1 {
-        color: #90CAF9;
+        color: #E1F5FE;
         font-size: 3.1em;
         text-align: center;
     }
