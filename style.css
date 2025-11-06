@@ -113,6 +113,17 @@ body {
     color: #333042;
 }
 
+.profile_picture > img {
+    width: 30%;
+    
+}
+
+.profile_picture {
+    padding-top: 1%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
 .text-wrap > p {
     color: #666;
 }
