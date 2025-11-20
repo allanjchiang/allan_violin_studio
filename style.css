@@ -4,14 +4,19 @@
     }
 
     .hero_image_small {
-        background-color: #212121;
+        background-color: #6067ff;
         padding: 5%;
     }
 
     h1 {
-        color: #E1F5FE;
+        color: #90CAF9;
         font-size: 3.1em;
         text-align: center;
+    }
+
+    .subtitle-2 {
+        padding-left: 5%;
+        padding-right: 5%;
     }
 
     .text-wrap {
@@ -65,8 +70,6 @@ body {
     cursor: pointer;
     padding: 0;
 }
-
-
 
 .dropdown.active > .link,
 .link:hover {
